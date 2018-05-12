@@ -1,0 +1,28 @@
+_repo: Uno-degli-onestiCommedia-in-un-atto_42928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42928-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bracco, Roberto
+    birthdate: 1861
+    deathdate: 1943
+    gutenberg_agent_id: '37422'
+    url: http://www.gutenberg.org/2009/agents/37422
+    wikipedia: http://it.wikipedia.org/wiki/Roberto_Bracco
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2013-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42928'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian drama'
+title: 'Uno degli onesti: Commedia in un atto'
+url: http://www.gutenberg.org/ebooks/42928
